@@ -1,14 +1,14 @@
 # movie-recommender-system-using-Streamlit
 
 The recommender system is a simple algorithm that aims to provide the most relevant information to the user by detecting patterns in the dataset. The purpose of recommender systems is to search for content that is of interest to humans. 
-<p><img src="https://user-images.githubusercontent.com/68067460/177015584-8f23d9c5-3225-4f9c-b50b-af4dbe579117.png"/> &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp;
-<img src="https://user-images.githubusercontent.com/68067460/177015602-eb3a2476-1052-4949-be73-dba976952823.png"/></p>
+<br><img src="https://user-images.githubusercontent.com/68067460/177023159-654bdedd-cb37-4a77-86c1-91c75cc8a0f8.png"></p>
 
 In addition, it contains many elements to create a personalized list of useful and interesting content that is unique to each user / individual. 
 Recommender systems are artificial intelligence-based algorithms that scan all possible options and create a custom list of items that are interesting and relevant to a person. These results are based on your profile, search / browsing history, what others with similar characteristics / demographics are watching, and how likely you are to see these movies.
 What can be recommended:-
-
+<p><img align="right" src="https://user-images.githubusercontent.com/68067460/177015584-8f23d9c5-3225-4f9c-b50b-af4dbe579117.png"/> &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp;
+<br><img align="right" src="https://user-images.githubusercontent.com/68067460/177015602-eb3a2476-1052-4949-be73-dba976952823.png"/></p>
 – Advertising Messages – Movies – Books	– Music Tracks
 
 – News Articles					 – Restaurants
